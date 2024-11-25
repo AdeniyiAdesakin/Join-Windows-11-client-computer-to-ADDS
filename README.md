@@ -1,4 +1,4 @@
-<h1>Join Windows 11(client computer) to ADDS</h1>
+<h1>Joining Windows 11(client computer) to ADDS</h1>
 <p>This tutorial outlines how to join a client's computer to Active Directory Domain Services<p>
 
 <p>1. From the client's computer , go to This PC, right-click and select on properties.</p>
